@@ -3,14 +3,14 @@ This python program working with objects and creating
   - help - get help menu
   - clear - clear screen
   - exit - close program
-mainMenu:
+  mainMenu:
   - create - create object
   - get - get get menu
-getMenu:
+  getMenu:
   - list - get list with objects in .\\items\\
   - object - get and change object
   - back - back to the mainMenu
-objMenu:
+  objMenu:
   - changename - Function development
   - changeid - Function development
   - info - Function development
